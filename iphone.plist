@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>updateContent</key>
+	<string>正常更新</string>
+	<key>isForce</key>
+	<false/>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://139.9.172.106:80/fs/ios/app.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://139.9.172.106:80/fs/ios/57_57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://139.9.172.106:80/fs/ios/512_512.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.datalk.5g.im.release</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>协同办公</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
